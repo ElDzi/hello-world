@@ -1,4 +1,4 @@
-package pl.eldzi.helloworld;\
+package pl.eldzi.helloworld;
 
 public class Main {
 
